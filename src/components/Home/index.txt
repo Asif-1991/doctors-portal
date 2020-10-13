@@ -1,0 +1,6 @@
+echo "# doctors-portal" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Asif-1991/doctors-portal.git
+git push -u origin master
